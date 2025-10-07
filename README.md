@@ -123,8 +123,8 @@ You can modify and use it for **personal or educational projects**.
 
 **Partha Dey**  
 💼 AWS Solution Architect Intern | UI/UX Designer  
-🌐 [Portfolio](https://your-portfolio-link.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🌐 [Portfolio](https://parthadee.github.io/Portfolio/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/parthakrdey/)  
 📧 parthadey@email.com
 
 ---
