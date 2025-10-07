@@ -84,7 +84,7 @@ CarVilla/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/CarVilla.git
+   git clone https://github.com/Parthadee/CarVilla.git
    ```
 
 2. **Navigate into the Project**
