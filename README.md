@@ -104,11 +104,10 @@ CarVilla/
 
 ## 🖼️ Preview
 
-Add your own project preview image:
-
-```markdown
-![CarVilla Website Preview](images/1.png)
-```
+My project preview image:
+<p align="center">
+  <img src="images/1.png" />
+</p>
 
 ---
 
