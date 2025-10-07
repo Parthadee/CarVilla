@@ -107,7 +107,7 @@ CarVilla/
 Add your own project preview image:
 
 ```markdown
-![CarVilla Website Preview](assets/images/demo-preview.png)
+![CarVilla Website Preview](images/1.png)
 ```
 
 ---
